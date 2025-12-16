@@ -29,5 +29,3 @@ Quiero especializarme en documentación que conecte con las personas.
 Creo que la tecnología se vuelve más poderosa cuando se explica con empatía, sencillez y propósito. Mi meta es aportar esa mirada humana al mundo técnico.
 📫 Cómo contactarme
 Si querés conversar, colaborar o compartir ideas, podés encontrarme en GitHub o escribirme por los canales que incluya más adelante.
-
-Si querés, puedo ayudarte a crear tu primer repositorio “Portfolio” y organizar este README dentro de él. También puedo armarte las primeras carpetas y sugerirte qué documentos agregar para que tu portafolio empiece a tomar forma. ¿Querés que avancemos con eso?
