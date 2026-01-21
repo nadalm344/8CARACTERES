@@ -3,7 +3,7 @@
 ## Sobre mi visión profesional
 Hola, soy **María**. Mi enfoque principal es la **Redacción Técnica** y la simplificación de procesos digitales. Creo firmemente que el éxito de una aplicación no solo depende de su código, sino de qué tan bien pueda el usuario final interactuar con ella.
 
-Actualmente, estoy desarrollando mis capacidades para transformar manuales complejos en guías paso a paso que sean **accesibles, claras y visualmente organizadas**.
+Actualmente, estoy desarrollando mis capacidades para transformar manuales complejos en guías paso a paso que sean **accesibles, claras y visualmente organizadas para usuarios especializados**.
 
 ---
 
