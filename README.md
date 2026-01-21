@@ -1,4 +1,4 @@
-# 8CARACTERES María | Redactora Técnica en Formación
+# 8CARACTERES María | Redactora Técnica en Formación Permanente
 👋 Hola, soy María
 Estoy formándome como redactora técnica, con un enfoque muy claro: explicar la tecnología en un lenguaje humano, accesible y amable. Creo profundamente que la documentación no tiene que ser complicada para ser útil. Mi objetivo es ayudar a que más personas entiendan herramientas como GitHub sin necesidad de saber programar.
 🎯 Qué estoy construyendo
