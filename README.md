@@ -28,4 +28,5 @@ Me encuentro en un proceso de **aprendizaje continuo**, explorando cómo las her
 
 > **"Un buen manual es aquel que el usuario disfruta leer, no el que se ve obligado a consultar."** 
 * [☁️ Guía: Cómo respaldar archivos en la nube](./respaldo-nube.md)
----
+--- 
+* [🔐 Guía: Cómo crear una contraseña segura y fácil de recordar](./seguridad-contrasenas.md)
