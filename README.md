@@ -38,4 +38,5 @@ Aquí encontrarás proyectos que involucran herramientas técnicas más compleja
 
 * [🤖 Guía de Integración: PokeAPI](https://github.com/nadalm344/guia-tecnica-pokeapi)
 * [📱 Manual de uso: WhatsApp](https://github.com/nadalm344/instrucciones-whatsapp.md)
-* [💳 Documentación: Mercado Pago](https://github.com/nadalm344/Manuales-tecnicos)
+* [💳 Documentación: Mercado Pago](https://github.com/nadalm344/Manuales-tecnicos) 
+> Última actualización del portafolio: Enero 2026
