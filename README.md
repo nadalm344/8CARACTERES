@@ -30,4 +30,12 @@ Me encuentro en un proceso de **aprendizaje continuo**, explorando cómo las her
 * [☁️ Guía: Cómo respaldar archivos en la nube](./respaldo-nube.md)
 --- 
 * [🔐 Guía: Cómo crear una contraseña segura y fácil de recordar](./seguridad-contrasenas.md) 
-* [🎥 Guía: Cómo unirse a una reunión de Zoom](./manual-zoom.md)
+* [🎥 Guía: Cómo unirse a una reunión de Zoom](./manual-zoom.md) 
+---
+
+## 🚀 Documentación Avanzada y APIs
+Aquí encontrarás proyectos que involucran herramientas técnicas más complejas y guías de integración.
+
+* [🤖 Guía de Integración: PokeAPI](https://github.com/nadalm344/guia-tecnica-pokeapi)
+* [📱 Manual de uso: WhatsApp](https://github.com/nadalm344/instrucciones-whatsapp.md)
+* [💳 Documentación: Mercado Pago](https://github.com/nadalm344/Manuales-tecnicos)
